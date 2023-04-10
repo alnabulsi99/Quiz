@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is 1+1 ?",
+      "options" : ["2", "3","4"],
+      "isCorrect": 0
+    },
+    {
+      "question": "What is 3+1 ?",
+      "options" : ["2", "3","4"],
+      "isCorrect": 2
+    },
+    {
+      "question": "What is 5+4 ?",
+      "options" : ["9", "12","8"],
+      "isCorrect": 0
+    },
+    {
+      "question": "What is 9+1 ?",
+      "options" : ["12", "11","10"],
+      "isCorrect": 2
+    },
+    {
+      "question": "What is 10+12 ?",
+      "options" : ["22", "23","24"],
+      "isCorrect": 0
+    },
+    {
+      "question": "What is 13+33 ?",
+      "options" : ["22", "53","46"],
+      "isCorrect": 2
+    },
+    {
+      "question": "What is 53+7 ?",
+      "options" : ["60", "59","61"],
+      "isCorrect": 0
+    },
+    {
+      "question": "What is 82+10 ?",
+      "options" : ["92", "83","94"],
+      "isCorrect": 0
+    },
+    {
+      "question": "What is 94+37 ?",
+      "options" : ["122", "143","141"],
+      "isCorrect": 2
+    },
+    {
+      "question": "What is 222+44 ?",
+      "options" : ["255", "266","222"],
+      "isCorrect": 1
+    }
+  
+]

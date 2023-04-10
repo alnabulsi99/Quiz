@@ -1,0 +1,49 @@
+[  {    "question": "Who is the author of the Harry Potter series?",    "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+    "isCorrect": 0
+  },
+  {
+    "question": "What is the most widely spoken language in the world?",
+    "options": ["English", "Mandarin", "Spanish", "Hindi"],
+    "isCorrect": 1
+  },
+  {
+    "question": "What is the capital city of Brazil?",
+    "options": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Salvador"],
+    "isCorrect": 2
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "isCorrect": 2
+  },
+  {
+    "question": "What is the highest-grossing film of all time?",
+    "options": ["Avatar", "Avengers: Endgame", "Titanic", "Star Wars: The Force Awakens"],
+    "isCorrect": 1
+  },
+  {
+    "question": "Who is the current President of France?",
+    "options": ["Emmanuel Macron", "Francois Hollande", "Nicolas Sarkozy", "Jacques Chirac"],
+    "isCorrect": 0
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": ["Monaco", "Nauru", "San Marino", "Vatican City"],
+    "isCorrect": 3
+  },
+  {
+    "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+    "options": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "William Faulkner"],
+    "isCorrect": 0
+  },
+  {
+    "question": "What is the highest waterfall in the world?",
+    "options": ["Angel Falls", "Iguazu Falls", "Niagara Falls", "Victoria Falls"],
+    "isCorrect": 0
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "isCorrect": 1
+  }
+]

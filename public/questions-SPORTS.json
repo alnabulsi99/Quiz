@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "options": ["Germany", "Brazil", "Spain", "France"],
+    "isCorrect": 3
+  },
+  {
+    "question": "Who is the all-time leading scorer in NBA history?",
+    "options": [
+      "LeBron James",
+      "Michael Jordan",
+      "Kareem Abdul-Jabbar",
+      "Kobe Bryant"
+    ],
+    "isCorrect": 2
+  },
+  {
+    "question": "Which team has won the most Super Bowls in NFL history?",
+    "options": [
+      "Pittsburgh Steelers",
+      "New England Patriots",
+      "Dallas Cowboys",
+      "San Francisco 49ers"
+    ],
+    "isCorrect": 0
+  },
+  {
+    "question": "What is the name of the famous tennis tournament held annually in Wimbledon, London?",
+    "options": ["US Open", "Australian Open", "French Open", "Wimbledon"],
+    "isCorrect": 3
+  },
+  {
+    "question": "Which athlete holds the world record for the men's 100-meter dash?",
+    "options": ["Usain Bolt", "Carl Lewis", "Maurice Greene", "Justin Gatlin"],
+    "isCorrect": 0
+  },
+  {
+    "question": "Which country has won the most Olympic gold medals in history?",
+    "options": ["China", "Russia", "United States", "Japan"],
+    "isCorrect": 2
+  },
+  {
+    "question": "Who is the current world heavyweight boxing champion?",
+    "options": [
+      "Anthony Joshua",
+      "Tyson Fury",
+      "Deontay Wilder",
+      "Andy Ruiz Jr."
+    ],
+    "isCorrect": 1
+  },
+  {
+    "question": "Which team won the 2021 Stanley Cup in the NHL?",
+    "options": [
+      "Tampa Bay Lightning",
+      "Montreal Canadiens",
+      "New York Islanders",
+      "Vegas Golden Knights"
+    ],
+    "isCorrect": 0
+  },
+  {
+    "question": "Who won the men's singles title at the 2021 French Open tennis tournament?",
+    "options": [
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Stefanos Tsitsipas",
+      "Roger Federer"
+    ],
+    "isCorrect": 2
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["China", "Russia", "Brazil", "Japan"],
+    "isCorrect": 2
+  }
+]

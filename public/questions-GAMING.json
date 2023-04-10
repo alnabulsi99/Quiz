@@ -1,0 +1,49 @@
+[  {    "question": "What is the best-selling video game of all time?",    "options": ["Minecraft", "Tetris", "Grand Theft Auto V", "Call of Duty: Modern Warfare"],
+    "isCorrect": 1
+  },
+  {
+    "question": "What is the name of the main character in the Legend of Zelda series?",
+    "options": ["Ganon", "Zelda", "Link", "Ghirahim"],
+    "isCorrect": 2
+  },
+  {
+    "question": "What was the first video game console?",
+    "options": ["Atari 2600", "Magnavox Odyssey", "Nintendo Entertainment System", "Sega Genesis"],
+    "isCorrect": 1
+  },
+  {
+    "question": "Which game in the Assassin's Creed series takes place during the French Revolution?",
+    "options": ["Assassin's Creed III", "Assassin's Creed IV: Black Flag", "Assassin's Creed Unity", "Assassin's Creed Syndicate"],
+    "isCorrect": 2
+  },
+  {
+    "question": "What is the name of the villain in the original Pac-Man game?",
+    "options": ["Blinky", "Clyde", "Pinky", "Inky"],
+    "isCorrect": 0
+  },
+  {
+    "question": "Which game in the Fallout series takes place in post-apocalyptic Boston?",
+    "options": ["Fallout 3", "Fallout: New Vegas", "Fallout 4", "Fallout 76"],
+    "isCorrect": 2
+  },
+  {
+    "question": "Who created the game Fortnite?",
+    "options": ["Epic Games", "Valve Corporation", "Blizzard Entertainment", "Electronic Arts"],
+    "isCorrect": 0
+  },
+  {
+    "question": "What is the name of the first game in the Halo series?",
+    "options": ["Halo 2", "Halo 3", "Halo 4", "Halo: Combat Evolved"],
+    "isCorrect": 3
+  },
+  {
+    "question": "What is the name of the game developer behind the Grand Theft Auto series?",
+    "options": ["Ubisoft", "Rockstar Games", "Bethesda Softworks", "Valve Corporation"],
+    "isCorrect": 1
+  },
+  {
+    "question": "Which game in the Call of Duty series takes place during World War II?",
+    "options": ["Call of Duty 4: Modern Warfare", "Call of Duty: Black Ops", "Call of Duty: WWII", "Call of Duty: Advanced Warfare"],
+    "isCorrect": 2
+  }
+]
